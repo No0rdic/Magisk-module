@@ -4,9 +4,9 @@
 Welcome to next Performance🔥🔥🔥
 Unlock A Unleash Performance on ur Android devices by Enabling Zygote Preload🥶
 # Key Of Features
-**ZYGOTE PRELOAD** Is Key features from another function of ZygOte Preload Magisk module
+***ZYGOTE PRELOAD*** Is Key features from another function of Zygote Preload Magisk module
 # Notes!
-***THIS IS NOT GAMING MODULE OR AI MODULE***
+>***THIS IS NOT GAMING MODULE OR AI MODULE AND***
 ***RECOMMENDED USE KERNELSU TO THIS MODULE*** 
 
 
